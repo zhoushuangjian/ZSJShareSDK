@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   DataPlist.plist
-   ZSJ_ShareSDK
-
-   Created by 周双建 on 16/1/6.
-   Copyright (c) 2016年 周双建. All rights reserved.
--->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-    
-    </dict>
+<array>
+	<dict>
+		<key>title</key>
+		<string>闭月羞花</string>
+		<key>miaoshu</key>
+		<string>人间是真情，岁月用留痕，你在干什么？我在等你来。山有煽情，谁有水田。</string>
+		<key>url</key>
+		<string>http://blog.csdn.net/zhoushuangjian511</string>
+		<key>image</key>
+		<string>1d11401ec5bd0c1d34790bb845344466.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>花容月貌</string>
+		<key>miaoshu</key>
+		<string>容颜不可常住，美丽也有邂逅。岁月无情人有情，美丽幸福是常有，只是你没发现。</string>
+		<key>url</key>
+		<string>http://blog.csdn.net/zhoushuangjian511</string>
+		<key>image</key>
+		<string>4cb1a01e3a9c0593daf97e90a8020952.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>沉鱼落雁</string>
+		<key>miaoshu</key>
+		<string>美丽的容颜，不是最珍贵的礼物，那是生活中的，附加品，而高贵的品质，不是容颜可以披靡的。</string>
+		<key>url</key>
+		<string>http://blog.csdn.net/zhoushuangjian511</string>
+		<key>image</key>
+		<string>67df8c6aa2e8db10f3b9d884c501e3e2.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>秀色可餐</string>
+		<key>miaoshu</key>
+		<string>好的实物都有另一面，美好是断站的，掩饰是长久的。记住一切都是魔龙。</string>
+		<key>url</key>
+		<string>http://blog.csdn.net/zhoushuangjian511</string>
+		<key>image</key>
+		<string>612a57333be80507948c9b91dc4dff81.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>江山美人</string>
+		<key>miaoshu</key>
+		<string>爱江山盛世美人，这人就不可救药，去死吧。</string>
+		<key>url</key>
+		<string>http://blog.csdn.net/zhoushuangjian511</string>
+		<key>image</key>
+		<string>7873016efb444a57030d4e8445fbad41.jpg</string>
+	</dict>
+</array>
 </plist>
